@@ -1,2 +1,2 @@
 # Voting-System
-Voting System Web based Application
+Web based Voting System.
